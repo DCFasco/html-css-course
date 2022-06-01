@@ -59,10 +59,6 @@ li {
   margin-bottom: 10px;
 }
 
-li:last-child {
-  margin-bottom: 0;
-}
-
 /* footer p {
     font-size: 16px;
 } */
@@ -100,6 +96,7 @@ li:first-child {
 
 li:last-child {
   font-style: italic;
+  margin-bottom: 0;
 }
 
 /* li:nth-child(2) {
