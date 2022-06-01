@@ -8,6 +8,11 @@ body {
   color: #444;
 }
 
+.container {
+  width: 800px;
+  margin: 0 auto;
+}
+
 .main-header {
   background-color: #f5f1f1;
   /* padding: 20px;
@@ -89,7 +94,7 @@ li {
 } */
 
 .post-img {
-  width: 800px;
+  width: 100%;
   height: auto;
 }
 
